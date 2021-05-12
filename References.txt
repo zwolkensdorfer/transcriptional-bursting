@@ -1,0 +1,5 @@
+Bagnall, J., Rowe, W., Alachkar, N., Roberts, J., England, H., Clark, C., Platt, M., Jackson, D. A., Muldoon, M. and Paszek, P. (2020). ‘Gene-Specific Linear Trends Constrain Transcriptional Variability of the Toll-like Receptor Signaling’, Cell Systems, 11(3), pp. 300-314. doi: 10.1016/j.cels.2020.08.007.
+
+Hagai, T., Chen, X., Miragaia, R. J., Rostom, R., Gomes, T., Kunowska, N., Henriksson, J., Park, J., Proserpio, V., Donati, G., Bossini-Castillo, L., Vieira Braga, F. A., Naamati, G., Fletcher, J., Stephenson, E., Vegh, P., Trynka, G., Kondova, I., Dennis, M., Haniffa, M., Nourmohammad, A., Lässig, M. and Teichmann, S. A. (2018). ‘Gene expression variability across cells and species shapes innate immunity’, Nature, 563(7730), pp. 197-202. doi: 10.1038/s41586-018-0657-2.
+
+Larsson, A. J. M., Johnsson, P., Hagemann-Jensen, M., Hartmanis, L., Faridani, O. R., Reinius, B., Segerstolpe, A., Rivera, C. M., Ren, B. and Sandberg, R. (2019). ‘Genomic encoding of transcriptional burst kinetics’, Nature, 565, pp. 251-254. doi: :10.1038/s41586-018-0836-1.
